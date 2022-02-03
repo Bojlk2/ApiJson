@@ -1,56 +1,140 @@
 {
-    "mentors": [],
-    "koders": [
-        {
-            "id": 1,
-            "name": "Emilio",
-            "age": 29,
-            "nationality": "mexican",
-            "generation": 15,
-            "hobbies": ["Bataca", "Diseño", "Llegar temprano"],
-            "sex": "M",
-            "city": "GDL"
-        },
-        {
-            "id": 2,
-            "name": "Erik",
-            "age": 28,
-            "nationality": "mexican",
-            "generation": 15,
-            "hobbies": ["Nadar", "Football"],
-            "sex": "M",
-            "city": "CDMX"
-        },
-        {
-            "id": 3,
-            "name": "Job",
-            "age": 33,
-            "nationality": "mexican",
-            "generation": 15,
-            "hobbies": ["Gym", "PS"],
-            "sex": "M",
-            "city": "CDMX"
-        },
-        {
-            "id": 4,
-            "name": "Ismael",
-            "age": 40,
-            "nationality": "mexican",
-            "generation": 15,
-            "hobbies": ["Musica", "Chorcha"],
-            "sex": "M",
-            "city": "CDMX"
-        },
-        {
-            "id": 5,
-            "name": "Sara",
-            "age": 32,
-            "nationality": "mexican",
-            "generation": 15,
-            "hobbies": ["Caminar", "Leer"],
-            "sex": "F",
-            "city": "Durango"
-        }
-
-    ]
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Charles",
+      "age": 26,
+      "nationality": "mexican",
+      "teach": [
+        "Backend",
+        "AWS"
+      ],
+      "experience": 6,
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 2,
+      "name": "Jorge",
+      "age": 30,
+      "nationality": "mexican",
+      "teach": [
+        "Javascript",
+        "JQuery"
+      ],
+      "experience": 7,
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 3,
+      "name": "Israel",
+      "age": 30,
+      "nationality": "mexican",
+      "teach": [
+        "CSS",
+        "Bootstrap",
+        "React"
+      ],
+      "experience": 8,
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 4,
+      "name": "Israel2022",
+      "age": 30,
+      "nationality": "mexican",
+      "teach": [
+        "CSS",
+        "Bootstrap",
+        "React",
+        "Otros"
+      ],
+      "experience": 830,
+      "sex": "M",
+      "city": "CDMX!!!!!"
+    }
+  ],
+  "koders": [
+    {
+      "id": 1,
+      "name": "Emilio",
+      "age": 29,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "Bataca",
+        "Diseño",
+        "Llegar temprano"
+      ],
+      "sex": "M",
+      "city": "GDL"
+    },
+    {
+      "id": 2,
+      "name": "Erik",
+      "age": 20,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "Nadar",
+        "Football"
+      ],
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 3,
+      "name": "Job",
+      "age": 33,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "Gym",
+        "PS"
+      ],
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 4,
+      "name": "Ismael",
+      "age": 40,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "Musica",
+        "Chorcha"
+      ],
+      "sex": "M",
+      "city": "CDMX"
+    },
+    {
+      "id": 5,
+      "name": "Sara",
+      "age": 32,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "Caminar",
+        "Leer"
+      ],
+      "sex": "F",
+      "city": "Durango"
+    },
+    {
+      "id": 6,
+      "name": "Ivonne",
+      "age": 31,
+      "nationality": "mexican",
+      "generation": 15,
+      "hobbies": [
+        "bailar",
+        "cine"
+      ],
+      "sex": "F",
+      "city": "Toluca"
+    }
+  ]
 }
